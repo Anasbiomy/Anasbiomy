@@ -8,7 +8,7 @@
 🎓 I'm a **Computer Engineering Student**  
 💻 A passionate **Front-End Developer**  
 📚 Currently studying at **Almadrasah Platform**  
-🌱 Learning **Back-End Development using Node.js**
+🌱 Learning **Back-End Development**
 
 ---
 
