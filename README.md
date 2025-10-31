@@ -28,14 +28,6 @@
 
 ---
 
-### 🧩 Featured Projects:
-- 🌐 [Portfolio Website](#) — My personal website showcasing my projects and skills  
-- 📱 [React App Demo](#) — A responsive React project focusing on UI/UX design  
-- ⚙️ [Node.js API Project](#) — A RESTful API built with Node.js and Express.js  
-- 🧭 [Python Automation Script](#) — A script that automates repetitive tasks efficiently  
-
----
-
 ### 📊 GitHub Stats:
 ![Anasbiomy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Anasbiomy&show_icons=true&theme=radical)
 
